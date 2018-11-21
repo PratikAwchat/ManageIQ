@@ -14,7 +14,7 @@
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq?branch=master&buildCount=50)](https://travis-ci.org/ManageIQ/manageiq/branches)
 
-## Discover, Optimize, and Control your Hybrid IT
+## Discover, Optimize, and Control your Hybrid IT1
 
 ### Manage containers, virtual machines, networks, and storage from a single platform
 
